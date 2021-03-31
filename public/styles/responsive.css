@@ -50,12 +50,15 @@
   }
 
   #titleContainer h1 {
-    font-size: 5vmin;
+    width: 90%;
+    font-size: 5.5vmin;
+
+    margin-bottom: 5px;
 
   }
 
   #titleContainer h4 {
-    width: 80%;
+    width: 90%;
 
     font-size: 0.85rem;
     line-height: 1.5rem;
